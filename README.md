@@ -7,10 +7,10 @@ A 2D Physics Simulation Engine. This is a personal pet project focus on **accura
 ## Features
 
 - Rigid Body Dynamics [X]
-- Particle Kinematics []
-- Collision Detection & Response []
-- Constraint []
-- Material Properties []
+- Particle Kinematics [ ]
+- Collision Detection & Response [ ]
+- Constraint Solver [ ]
+- Material Properties [ ]
 
 ## Stack
 
